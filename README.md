@@ -10,4 +10,4 @@ I'm a **professional backend developer** who designs, implements and maintains h
 
 Currently working as a **Module Lead** at SM Netserv Solutions Pvt ltd.
 
-You can also find me on [LinkedIn](www.linkedin.com/in/rakesh-v-r).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/rakesh-v-r).

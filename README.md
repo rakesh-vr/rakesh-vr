@@ -6,7 +6,7 @@
 
 # Hi, I'm [Rakesh] 👋
 
-I'm a **professional backend developer** who designs, implements and maintains high quality products.
+I'm a **professional backend developer** who designs, implements and maintains high quality products, AI Practitioner | Acquiring Skills in Deep Learning and Natural Language Processing.
 
 Currently working as a **Module Lead** at SM Netserv Solutions Pvt ltd.
 
